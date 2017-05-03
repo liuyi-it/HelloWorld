@@ -2,6 +2,6 @@ package main;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("github上的第一个项目");
+		System.out.println("绗竴娆＄敤eclipse鍚慻ithub涓婁紶浠ｇ爜");
 	}
 }
